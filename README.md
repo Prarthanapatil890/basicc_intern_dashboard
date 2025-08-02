@@ -1,6 +1,6 @@
 # 🚀 Intern Rise Portal
 
-A clean, full-stack intern dashboard prototype built using **React (Vite)** for the frontend and **Firebase **(via Firebase Studio) for the backend.  
+A clean, full-stack intern dashboard prototype built using **React (Vite)** for the frontend and **Firebase**(via Firebase console) for the backend.  
 
 
 ---
@@ -11,7 +11,7 @@ A clean, full-stack intern dashboard prototype built using **React (Vite)** for 
 |-----------|--------------------------|
 | Frontend  | React + Vite             |
 | Backend   | Firebase Hosting (Static)|
-| Hosting   | Frontend: Vercel<br>Backend: Firebase (Static) |
+| Hosting   | Frontend: Vercel         |
 
 ---
 
@@ -46,39 +46,43 @@ A clean, full-stack intern dashboard prototype built using **React (Vite)** for 
 ---
 
 ## 📁 Project Structure
+---
 
 intern-rise-portal/
-├── public/
-│ └── (static files)
-├── src/
-│ ├── components/ # UI components like Login, Signup
-│ ├── pages/ # App pages (Dashboard, etc.)
-│ ├── App.tsx
-│ ├── main.tsx
-├── index.html # App root mount and meta
-├── vite.config.ts
-├── README.md
-├── package.json
+├── public/                 
+│
+├── src/                    
+│   ├── components/          
+│   ├── pages/              
+│   ├── App.tsx             
+│   ├── main.tsx        
+│
+├── index.html           
+├── vite.config.ts       
+├── package.json             
+├── README.md           
+        
 
 
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
-### 🧾 Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/Prarthanapatil890/basicc_intern_dashboard.git
 cd basicc_intern_dashboard
 npm install
 npm run dev
 
-**🚀 Deployment**
-🔹 Frontend – Vercel
+** Deployment**
+
+Frontend – Vercel
 Connect GitHub repo to Vercel
 
 Deploy directly from Vercel dashboard
 
-✅ No extra setup needed — Vercel handles everything via auto-deploy.
+ No extra setup needed — Vercel handles everything via auto-deploy.
 
-**🔹 Backend **– Firebase Hosting (Static)
+Backend – Firebase Hosting (Static)
