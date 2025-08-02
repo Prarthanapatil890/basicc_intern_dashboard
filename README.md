@@ -38,9 +38,9 @@ A clean, full-stack intern dashboard prototype built using **React (Vite)** for 
 
 | Page              | Preview                           |
 |-------------------|------------------------------------|
-| 🔐 Login Page     | ![Login Page](login.png)           |
-| 📝 Signup Page    | ![Signup Page](signup.png)         |
-| 📊 Dashboard      | ![Dashboard](dashboard.png)        |
+| 🔐 Login Page     | (login.png)                        |
+| 📝 Signup Page    | (signup.png)                       |
+| 📊 Dashboard      | (dashboard.png)                    |
 | 🌐 Firebase Setup | ![Firebase Setup](backend.png)     |
 
 
